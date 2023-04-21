@@ -73,12 +73,11 @@
 
           <div data-anim-child="slide-up delay-6" class="mt-20">
 
-            <section class="layout-pt-md layout-pb-md">
-              <form name="sign-up" method="POST" data-netlify="true" data-netlify-honeypot="bot-field"
-                action="success.html">
 
-                <input class="display:none" name="bot-field">
-
+            <form name="sign-up" method="POST" data-netlify="true" onSubmit="submit" data-netlify-honeypot="bot-field"action="success.html">
+              <input type="hidden" name="form-name" value="sign-up">
+              <input type="hidden" name="bot-field" />
+              <section class="layout-pt-md layout-pb-md">
                 <div class="container">
                   <div class="row y-gap-30 justify-between items-center">
                     <div class="col-auto">
@@ -107,9 +106,9 @@
                     </div>
                   </div>
                 </div>
+              </section>
 
-              </form>
-            </section>
+            </form>
 
           </div>
         </div>
