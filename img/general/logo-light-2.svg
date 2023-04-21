@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="152.43904"
+   height="34.474575"
+   viewBox="0 0 152.43904 34.474575"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo-aergames-2.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.1758649"
+     inkscape:cx="74.4344"
+     inkscape:cy="17.273576"
+     inkscape:window-width="1771"
+     inkscape:window-height="1097"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M 32.506823,17.013159 C 34.348406,10.156061 28.841302,2.8328531 20.230915,0.68854293 11.620369,-1.4558069 3.1171269,2.3782981 1.2755433,9.2353953 0.51137806,12.080748 1.9334006,16.740483 5.5019532,23.085537 c 1.0683517,1.899629 2.1641233,3.656094 3.0927049,5.077285 l -0.9353329,3.482696 c -0.1453615,0.541203 0.2877069,1.117273 0.9676125,1.286594 l 5.5198783,1.374658 c 0.679904,0.169329 1.348694,-0.132347 1.494043,-0.673551 l 0.935334,-3.482696 c 1.527665,-0.809493 3.370358,-1.83417 5.261146,-2.996859 6.315603,-3.883529 9.905318,-7.295153 10.669484,-10.140505 z m -2.461337,-0.612968 c -0.731442,2.723511 -5.021579,6.056101 -9.489319,8.848947 l -1.545573,-0.384909 c 3.065951,-4.001225 4.960181,-7.297684 5.634612,-9.808913 0.858425,-3.196323 0.952389,-6.3956009 0.263851,-9.0081681 -0.131251,-0.497528 -0.289189,-0.9645429 -0.471833,-1.4014949 4.394597,2.7569048 6.786163,7.36865 5.608263,11.754536 z M 13.442578,32.04014 10.384034,31.278448 10.892668,29.384541 13.95121,30.146233 Z M 15.16105,28.35628 10.745877,27.256738 C 10.202575,26.423361 9.6030254,25.477197 8.9894003,24.460234 l 1.3211647,0.329013 c 0.0036,8.87e-4 0.0069,0.0019 0.01025,0.0027 0.0035,8.55e-4 7.774335,1.935965 7.774335,1.935965 -1.015172,0.586872 -2.006738,1.134492 -2.933994,1.628399 z M 19.704485,2.6486903 c 1.213334,0.3021653 2.213863,1.6323629 2.745317,3.6496201 0.613604,2.3286505 0.519119,5.2209196 -0.265932,8.1440456 -0.63905,2.379509 -2.631142,5.751591 -5.770598,9.775048 L 11.724551,23.049737 C 11.003871,18.064418 10.95892,14.186387 11.598179,11.806118 12.383231,8.8829962 13.757051,6.3093281 15.466102,4.5591065 16.946529,3.0428831 18.491311,2.3465641 19.704485,2.6486903 Z M 3.7370395,9.8484 C 4.9149396,5.4625142 9.3283155,2.5454563 14.559905,2.1858343 14.180176,2.4827338 13.806595,2.8173805 13.441636,3.1913332 11.524109,5.154892 9.995585,7.9969115 9.1371596,11.193234 8.4625244,13.705224 8.4596,17.472148 9.1265842,22.402747 L 7.5733895,22.015943 C 4.4408053,16.37132 3.1140399,12.168125 3.7370395,9.8484 Z"
+     fill="#051036"
+     id="path6"
+     style="display:inline;fill:#f9f9f9;stroke-width:1.46599" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="text"
+     transform="translate(-6.3008949,-7.1271186)">
+    <text
+       xml:space="preserve"
+       style="font-size:27.5713px;letter-spacing:3px;fill:#f9f9f9;stroke-width:2.29761"
+       x="47.676746"
+       y="30.427509"
+       id="text498"
+       transform="scale(0.84576739,1.1823582)"><tspan
+         sodipodi:role="line"
+         id="tspan496"
+         x="47.676746"
+         y="30.427509"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:27.5713px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:2.29761">AerGames</tspan></text>
+  </g>
+</svg>
