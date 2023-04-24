@@ -5382,9 +5382,9 @@ div[data-slider] > input[type=range]::-ms-tooltip {
 }
 
 .preloader__title {
-  font-size: 47px;
-  font-weight: 600;
-  line-height: 68px;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 50px;
   letter-spacing: 0em;
   margin-top: 16px;
 }
